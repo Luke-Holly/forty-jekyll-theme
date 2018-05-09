@@ -1,5 +1,5 @@
 
-MCAT Prep — BPS Section — Piaget
+<h1>MCAT Prep — BPS Section — Piaget</h1>
 Jean Piaget, the French theorist, will all but certainly make an appearance on your MCAT. Here’s the minimum that you need to know about him. For more, see Mastering Piaget, where we take a deep dive.
 
 His theory of cognitive development was comprehensive. He considered many aspects of life and tried to explain the entire developmental process. To help describe it, he divided cognitive development into distinct stages that are characterized by behavior differences.
