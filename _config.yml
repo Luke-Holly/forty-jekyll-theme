@@ -4,7 +4,7 @@ subtitle: Tutoring science and exam prep, online and in person.
 email: youremailaddress@gmail.com
 description: A science teacher and tutor in the DC area, specializing in exam prep and advanced science courses. Tutoring from middle school up to medical school.
 baseurl: ""
-url: ""
+url: "forty-jekyll-theme-tutor/"
 # homepage tiles
 tiles-source: posts # accepts "posts" or "pages"
 tiles-count: 6
