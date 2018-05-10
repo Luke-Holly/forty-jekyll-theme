@@ -1,7 +1,7 @@
 ---
 title: Landing
 layout: landing
-description: 'Lorem ipsum dolor sit amet nullam consequa<br />sed veroeros. tempus adipiscing nulla.'
+description: 'I'm always seeking new students, for test prep or science courses. Get started today!'
 image: assets/images/pic07.jpg
 nav-menu: true
 ---
