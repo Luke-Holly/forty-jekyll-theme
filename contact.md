@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Generic
+title: Contact
 description:
 image: assets/images/pic11.jpg
 nav-menu: true
