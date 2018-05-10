@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: "Hi, I'm Luke, your science and test prep expert."
+landing-title: "Hi, I'm Luke, your science and test expert."
 description: null
 image: null
 author: Luke Hollomon
