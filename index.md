@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: 'Hi, I'm Luke'
+landing-title: "Hi, I'm Luke"
 description: null
 image: null
 author: Luke Hollomon
