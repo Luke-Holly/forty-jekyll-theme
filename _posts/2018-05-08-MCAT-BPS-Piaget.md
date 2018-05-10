@@ -1,3 +1,9 @@
+---
+layout: post
+title: MCAT BPS - Piaget
+description: Your intro to the French theorist
+image: assets/images/pic05.jpg
+---
 
 <h1>MCAT Prep: BPS Section</h1>
 <h2>Piaget</h2>
