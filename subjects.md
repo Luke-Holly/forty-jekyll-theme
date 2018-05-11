@@ -27,6 +27,7 @@ nav-menu: true
 			<li>Organic Chemistry</li>
 			<li>General Chemisty</li>
 			<li>General Biology</li>
+		</ul>
 	</div>
 	<div class="6u$ 12u$(small)">
 		<h3>Magna odio tempus commodo</h3>
