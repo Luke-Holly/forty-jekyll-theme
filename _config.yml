@@ -7,7 +7,7 @@ baseurl: "forty-jekyll-theme-tutor/"
 url: ""
 # homepage tiles
 tiles-source: "pages"
-tiles-count: 6
+tiles-count: 4
 
 # social settings
 500px_url:
