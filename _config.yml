@@ -6,7 +6,7 @@ description: A science teacher and tutor in the DC area, specializing in exam pr
 baseurl: "forty-jekyll-theme-tutor/"
 url: ""
 # homepage tiles
-tiles-source: posts # accepts "posts" or "pages"
+tiles-source: "pages"
 tiles-count: 6
 
 # social settings
