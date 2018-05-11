@@ -19,8 +19,14 @@ nav-menu: true
 <p>I'm an science and standardized test expert, and that's where I focus my abilities. I tutor every level of science, from middle school through to medical school. I also tutor math, up through Algebra 2. For test prep, I tutor all sections of the HSPT, ACT, SAT, MCAT, and GRE. Though I specialize as a science tutor, my political philosophy degree and extensive study allow me to test all sections of those exams. I'm your tutor who can do it all. </p>
 <div class="row">
 	<div class="6u 12u$(small)">
-		<h3>Sem turpis amet semper</h3>
-		<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat commodo eu sed ante lacinia. Sapien a lorem in integer ornare praesent commodo adipiscing arcu in massa commodo lorem accumsan at odio massa ac ac. Semper adipiscing varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
+		<h3>Science</h3>
+		<ul>
+			<li>Anatomy</li>
+			<li>Physiology</li>
+			<li>Biochemistry</li>
+			<li>Organic Chemistry</li>
+			<li>General Chemisty</li>
+			<li>General Biology</li>
 	</div>
 	<div class="6u$ 12u$(small)">
 		<h3>Magna odio tempus commodo</h3>
