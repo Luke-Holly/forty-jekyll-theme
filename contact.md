@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Contact
+title: Schedule a Lesson
 description:
-image: assets/images/pic11.jpg
+image: assets/images/pexels-photo-630839.jpeg
 nav-menu: true
 ---
 
