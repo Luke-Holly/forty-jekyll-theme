@@ -1,8 +1,8 @@
 ---
-title: Landing
+title: Credentials
 layout: landing
 description: 'I'm always seeking new students, for test prep or science courses. Get started today!'
-image: assets/images/pic07.jpg
+image: assets/images/pexels-photo-893896.jpeg
 nav-menu: true
 ---
 
