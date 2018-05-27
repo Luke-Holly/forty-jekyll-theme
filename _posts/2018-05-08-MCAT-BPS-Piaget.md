@@ -1,7 +1,7 @@
 ---
 layout: post
 title: MCAT BPS - Piaget
-description: Your intro to the French theorist
+description: Your intro to the French theorist, an important part of the MCAT and modern theories of development.
 image: assets/images/pic05.jpg
 ---
 
