@@ -1,0 +1,40 @@
+---
+layout: post
+title: Understanding Km - MCAT Biochemistry
+description: A walkthrough for everything you need to know about Km to crush the MCAT.
+image: assets/images/pic05.jpg
+---
+
+<h1>Km and Enzyme Kinetics</h1>
+Km is an essential, but misunderstood part of enzyme kinetics. On the MCAT, you can get by with just knowing some basics, but if you really want to succeed you need a good understanding of where it comes from and what it means. In a biochemistry course, this is required. You must understand these details. Fortunately, they’re not as complex as they seem.
+
+
+Enzymes are often summed up with a simple graph. The bottom represents the concentration of the substrate, the left side represents the initial velocity (we’ll get to that), while the Vmax represents the maximum velocity. That Km? That’s the substrate concentration at which the velocity is ½ of Vmax.
+
+<h2>Simplify with an Analogy</h2>
+Think of it this way - the substrate is fuel, the enzyme is an engine. If you’re driving along at regular speeds, you’re not putting a lot of fuel into your engine. As you press the gas pedal and put in more and more, your car accelerates up to its maximum velocity. The more gas you put in, the faster the car can go, up to a point where it reaches its max.
+
+Km is like a measure of fuel efficiency. The less fuel you need to reach “normal speed”, the more efficient your car is. That’s sort of how enzymes work. The less substrate they need to reach half of their maximum speed, the more efficient they are. So if the Km is low, you have a really efficient enzyme. If the Km is high, the enzyme is much less efficient. Its taking a lot more fuel to get up to that velocity.
+
+The Nitty-Gritty
+That’s pretty much what everyone knows about Km, and it’s enough to do okay, but not enough to do extremely well. For that, we need to know where Km comes from. It’s all based off of this equation:
+
+E + S ⇄ ES → E + P             This is the overall equation for any enzymatic reaction, Enzyme adds to substrate, they form a complex, then they dissociate and form a product. Km is a derivation of the rate constants.
+
+A reaction rate is a simple equation where, for the reaction A + B → AB, Rate = k[A][B], that is, it’s dependent on the concentration of the reactants. Km is all about how quickly the enzyme forms the ES complex versus how quickly it leaves it. 
+
+In the reaction above, there are two ways to leave the ES complex. Just follow the arrows to find them. If we start at ES in the middle, we could either go backward to form E + S or forward to form E + P. 
+
+There are two ways to leave this, but only one way to form it. That way is from the left to the right, enzyme and substrate binding together to form a product. Km is focused on the difference between these speeds.
+
+<h2>Now for some math: </h2>
+
+From our equation above, if we make the K from the rate constant K1 for the first forward arrow (from E + S → ES), K-1 for the first backward arrow (from ES → E + S), and K2 for the second forward arrow (from ES → E + P), these are the rates we get
+The rate of formation of ES = k1[E][S]
+The rate of breakdown of ES = (k-1 + k2) [ES] - these are equal to each other (that’s an assumption of all this math)
+Therefore:
+k1[E][S] = (k-1 + k2) [ES]
+And if we do some algebra to rearrange terms:
+[E][S]/[ES] = (k-1 + k2)/k1
+The fraction [E][S]/[ES] has been coined Km, or the Michaelis constant.
+So let’s logic through it - If the ratio between unbound enzyme / substrate and connected enzyme/substrate is really low, that means that anytime there is available substrate, the enzyme instantly binds to it. So you have a very efficient enzyme. A low Km = Efficient enzyme.
